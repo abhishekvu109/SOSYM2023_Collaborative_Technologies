@@ -3,9 +3,9 @@ This repository contains the replication package of the research done on the lan
   * Produce the plots presented in the paper.
 
 This study has been designed, performed, and reported by the following researchers:
-  * Abhishek Choudhury (Vrije Universiteit Amsterdam - The Netherlands)
   * Ivano Malavolta (Vrije Universiteit Amsterdam - The Netherlands)
-  * Federico Ciccozzi (Malardalen University - Sweden)
+  * Abhishek Choudhury (Vrije Universiteit Amsterdam - The Netherlands)
   * Kousar Aslam (Vrije Universiteit Amsterdam - The Netherlands)
   * Patricia Lago ((Vrije Universiteit Amsterdam - The Netherlands))
+  * Federico Ciccozzi (Malardalen University - Sweden)
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
