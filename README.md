@@ -8,4 +8,5 @@ This study has been designed, performed, and reported by the following researche
   * Kousar Aslam (Vrije Universiteit Amsterdam - The Netherlands)
   * Patricia Lago ((Vrije Universiteit Amsterdam - The Netherlands))
   * Federico Ciccozzi (Malardalen University - Sweden)
+
 For any information, interested researchers can contact us by sending an email to any of the investigators listed above.
